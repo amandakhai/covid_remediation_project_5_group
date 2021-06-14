@@ -1,0 +1,57 @@
+State,State Abbreviation,FEMA region,Population,Population as a percent of national population
+Florida,FL,Region 4,21477737,0.0647
+Michigan,MI,Region 5,9986857,0.0301
+Pennsylvania,PA,Region 3,12801989,0.0386
+New York,NY,Region 2,19453561,0.0586
+Texas,TX,Region 6,28995881,0.0874
+Illinois,IL,Region 5,12671821,0.0382
+California,CA,Region 9,39512223,0.1191
+North Carolina,NC,Region 4,10488084,0.0316
+Colorado,CO,Region 8,5758736,0.0174
+Minnesota,MN,Region 5,5639632,0.017
+Washington,WA,Region 10,7614893,0.0229
+Ohio,OH,Region 5,11689100,0.0352
+New Jersey,NJ,Region 2,8882190,0.0268
+Indiana,IN,Region 5,6732219,0.0203
+Georgia,GA,Region 4,10617423,0.032
+Massachusetts,MA,Region 1,6892503,0.0208
+Tennessee,TN,Region 4,6829174,0.0206
+Oregon,OR,Region 10,4217737,0.0127
+Arizona,AZ,Region 9,7278717,0.0219
+Virginia,VA,Region 3,8535519,0.0257
+Wisconsin,WI,Region 5,5822434,0.0175
+Maryland,MD,Region 3,6045680,0.0182
+Kentucky,KY,Region 4,4467673,0.0135
+Louisiana,LA,Region 6,4648794,0.014
+Missouri,MO,Region 7,6137428,0.0185
+Connecticut,CT,Region 1,3565287,0.0107
+Nevada,NV,Region 9,3080156,0.0093
+West Virginia,WV,Region 3,1792147,0.0054
+Utah,UT,Region 8,3205958,0.0097
+South Carolina,SC,Region 4,5148714,0.0155
+Iowa,IA,Region 7,3155070,0.0095
+Puerto Rico,PR,Region 2,3193694,0.0096
+Maine,ME,Region 1,1344212,0.0041
+New Mexico,NM,Region 6,2096829,0.0063
+Arkansas,AR,Region 6,3017804,0.0091
+Oklahoma,OK,Region 6,3956971,0.0119
+Mississippi,MS,Region 4,2976149,0.009
+New Hampshire,NH,Region 1,1359711,0.0041
+Kansas,KS,Region 7,2913314,0.0088
+Nebraska,NE,Region 7,1934408,0.0058
+Rhode Island,RI,Region 1,1059361,0.0032
+Delaware,DE,Region 3,973764,0.0029
+Idaho,ID,Region 10,1787065,0.0054
+Alabama,AL,Region 4,4903185,0.0148
+Montana,MT,Region 8,1068778,0.0032
+North Dakota,ND,Region 8,762062,0.0023
+Alaska,AK,Region 10,731545,0.0022
+Hawaii,HI,Region 9,1415872,0.0043
+South Dakota,SD,Region 8,884659,0.0027
+Wyoming,WY,Region 8,578759,0.0017
+Vermont,VT,Region 1,623989,0.0019
+District of Columbia,DC,Region 3,705749,0.0021
+United States Virgin Islands,VI,Region 2,106405,0.0003
+Guam,GU,Region 9,159385,0.0005
+Commonwealth of the Northern Mariana Islands,MP,Region 9,53883,0.0002
+American Samoa,AS,Region 9,55519,0.0002
